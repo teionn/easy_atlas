@@ -1,6 +1,6 @@
 # Easy Atlas
 
-Add the easy_atlas folder to: C:\Users\USERNAME\Documents\maya\2015-x64\scripts
+Add the easy_atlas folder to: C:\Users\USERNAME\Documents\maya\2018\scripts
 * Use your USERNAME
 * Choose your maya version
 
