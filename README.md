@@ -17,4 +17,4 @@ MIT License
 This repository is a forked version of https://github.com/seigisato/easy_atlas.
 
 There is no license presented in the repository from which you forked.
-If a license is added to the repository from which it was forked, the license may be modified to comply with it.
+If a license is added to the original repository that you forked, we may change the license to comply with it.
