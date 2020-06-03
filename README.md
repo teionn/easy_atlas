@@ -12,6 +12,8 @@ easy_atlas.launch()
 
 ## LISENCE
 
+MIT License
+
 This repository is a forked version of https://github.com/seigisato/easy_atlas.
 
 There is no license presented in the repository from which you forked.
